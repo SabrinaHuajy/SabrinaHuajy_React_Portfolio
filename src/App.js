@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Discover from './pages/Discover';
+import Work from './pages/Work';
 import About from './pages/About';
-import Search from './pages/Search';
+import Contact from './pages/Contact';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Wrapper from './components/Wrapper';
@@ -15,9 +15,9 @@ function App() {
         <Wrapper>
           <Routes>
             <Route path="/" element={<About/>} />
-            <Route path="/about" element={<About/>} />
-            <Route path="/discover" element={<Discover/>} />
-            <Route path="/search" element={<Search/>} />
+            <Route path="/Work" element={<Work/>} />
+            <Route path="/Contact" element={<Contact/>} />
+
           </Routes>
         </Wrapper>
         <Footer />
