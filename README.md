@@ -32,7 +32,7 @@ Link to my portfolio Website - https://sabrinahuajy.github.io/SabrinaHuajy_React
 The following images illustrate the website's appearance and functionality:
 <br>
 
-<img src="./src/Images/screenshots/screenshot1.PNG" alt="screenshot of webpage interface1">
+<img src="./src/Images/screenshots/screenshot01.PNG" alt="screenshot of webpage interface1">
 <img src="./src/Images/screenshots/screenshot2.PNG" alt="screenshot of webpage interface2">
 <img src="./src/Images/screenshots/screenshot3.PNG" alt="screenshot of webpage interface3">
 <img src="./src/Images/screenshots/screenshot4.PNG" alt="screenshot of webpage interface4">
