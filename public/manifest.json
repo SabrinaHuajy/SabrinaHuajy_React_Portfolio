@@ -1,6 +1,6 @@
 {
-  "short_name": "Priya",
-  "name": "Priya- Web Front End Developer",
+  "short_name": "Sabrina Hua",
+  "name": "Sabrina Hua- Web Front End Developer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +9,7 @@
     },
   
     {
-      "src": "/src/Images/ Pri-Logo.jpg",
+      "src": "/src/Images/ sh-Logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }

@@ -23,7 +23,7 @@ const Home = () => {
             <Container>
               <Row className="Hero">
                 <Col sm={12} md={6}>
-                  <img className="ProfileImage" src={Sagar} alt="Priya's profile"/>
+                  <img className="ProfileImage" src="https://i1.rgstatic.net/ii/profile.image/958546011250688-1605546586056_Q512/Jingyu-Hua-2.jpg" alt="sabrina's profile"/>
                 </Col>
                 <Col sm={12} md={6} className="HeroContent">
                   <h6>I'm <span style={{color:"#084AF3"}}>Sabrina Hua</span></h6>
