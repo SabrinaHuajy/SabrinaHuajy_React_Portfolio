@@ -1,7 +1,7 @@
 {
   "name": "sabrinahuajy_react_portfolio",
   "version": "0.1.0",
-  "homepage": " https://github.com/SabrinaHuajy/SabrinaHuajy_React_Portfolio",
+  "homepage": "https://sabrinahuajy.github.io/SabrinaHuajy_React_Portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
@@ -33,7 +33,7 @@
     ]
   },
   "browserslist": {
-    "production": [
+    "production": [ 
       ">0.2%",
       "not dead",
       "not op_mini all"
