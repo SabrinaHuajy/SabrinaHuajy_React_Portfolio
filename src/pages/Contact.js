@@ -18,8 +18,8 @@ export default function Contact() {
     e.preventDefault();
     console.log(toSend.from_name, toSend.email, toSend.contact, toSend.message);
 
-    send("service_3xs1c9t", "template_clmihxn", toSend, "_Pnbu7RNVuwRn9mc6"
-    )
+    send("service_unbn6ti", "template_749mqog", toSend, "4G3ogf19aCgMCX2a5")
+    
       .then((response) => {
         console.log('SUCCESS!', response.status, response.text);
       })

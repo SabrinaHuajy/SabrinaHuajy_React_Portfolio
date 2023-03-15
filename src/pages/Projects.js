@@ -16,7 +16,7 @@ export default function Projects() {
       <section className="PortfolioSection">
       <Container>
           <h2>Recent Projects</h2>
-          <p>I design and code beautifully simple things, and I love what I do.</p>
+          <p>I love coding, it lets me do amazing things like these!</p>
         <Row className="ProjectsList">
         <Col sm="4" className="Project">                 
           <img src={Project1} alt="rpersonify" /> 
