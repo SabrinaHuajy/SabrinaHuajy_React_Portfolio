@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SabrinaHuajy_React_Portfolio/static/css/main.12c04a00.css",
-    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.5da781d0.js",
+    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.5d2cb08d.js",
     "static/media/119356-development.gif": "/SabrinaHuajy_React_Portfolio/static/media/119356-development.25909523dcd7a73802de.gif",
     "static/media/front-end-skills.png": "/SabrinaHuajy_React_Portfolio/static/media/front-end-skills.2465a5fa73ff9b54e44a.png",
     "static/media/sh-logo.png": "/SabrinaHuajy_React_Portfolio/static/media/sh-logo.a43953ac35d3ea35190d.png",
@@ -13,10 +13,10 @@
     "static/media/Evo Design.jpg": "/SabrinaHuajy_React_Portfolio/static/media/Evo Design.f78aa3fd070fc4dd0bd1.jpg",
     "index.html": "/SabrinaHuajy_React_Portfolio/index.html",
     "main.12c04a00.css.map": "/SabrinaHuajy_React_Portfolio/static/css/main.12c04a00.css.map",
-    "main.5da781d0.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.5da781d0.js.map"
+    "main.5d2cb08d.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.5d2cb08d.js.map"
   },
   "entrypoints": [
     "static/css/main.12c04a00.css",
-    "static/js/main.5da781d0.js"
+    "static/js/main.5d2cb08d.js"
   ]
 }
