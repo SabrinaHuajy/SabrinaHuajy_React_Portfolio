@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SabrinaHuajy_React_Portfolio/static/css/main.2eaad017.css",
-    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.7fd85972.js",
+    "main.css": "/SabrinaHuajy_React_Portfolio/static/css/main.93990966.css",
+    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.ac701d99.js",
     "static/media/hey.png": "/SabrinaHuajy_React_Portfolio/static/media/hey.b664593e1ab106571274.png",
     "static/media/119356-development.gif": "/SabrinaHuajy_React_Portfolio/static/media/119356-development.25909523dcd7a73802de.gif",
     "static/media/front-end-skills.png": "/SabrinaHuajy_React_Portfolio/static/media/front-end-skills.2465a5fa73ff9b54e44a.png",
@@ -12,11 +12,11 @@
     "static/media/counselorjyoti.jpg": "/SabrinaHuajy_React_Portfolio/static/media/counselorjyoti.03535c34c110b7ea292b.jpg",
     "static/media/Evo Design.jpg": "/SabrinaHuajy_React_Portfolio/static/media/Evo Design.f78aa3fd070fc4dd0bd1.jpg",
     "index.html": "/SabrinaHuajy_React_Portfolio/index.html",
-    "main.2eaad017.css.map": "/SabrinaHuajy_React_Portfolio/static/css/main.2eaad017.css.map",
-    "main.7fd85972.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.7fd85972.js.map"
+    "main.93990966.css.map": "/SabrinaHuajy_React_Portfolio/static/css/main.93990966.css.map",
+    "main.ac701d99.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.ac701d99.js.map"
   },
   "entrypoints": [
-    "static/css/main.2eaad017.css",
-    "static/js/main.7fd85972.js"
+    "static/css/main.93990966.css",
+    "static/js/main.ac701d99.js"
   ]
 }
