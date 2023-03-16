@@ -4,7 +4,7 @@ import Project2 from "../Images/Projects/console.PNG"
 import Project3 from "../Images/Projects/codequiz.PNG"
 import Project4 from "../Images/Projects/dailyplanner.PNG"
 import Project5 from "../Images/Projects/makeameal.png"
-import Project5 from "../Images/Projects/weatherforecast.PNG"
+import Project6 from "../Images/Projects/weatherforecast.PNG"
 import { Container, Row, Col } from "react-bootstrap";
 import "./CSS/Projects.css"
 import Footer from '../Components/Footer';
@@ -17,7 +17,7 @@ export default function Projects() {
       <section className="PortfolioSection">
         <Container>
           <h2>Recent Projects</h2>
-          <p>I love coding, it lets me do amazing things like these!</p>
+          <p>I love coding, it empowers me to do amazing things like these!</p>
           <Row className="ProjectsList">
             <Col sm="4" className="Project">
               <img src={Project1} alt="password_generator" />

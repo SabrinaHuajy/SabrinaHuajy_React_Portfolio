@@ -14,10 +14,10 @@
 
 }
 .Nav-List .nav-link a:hover{
-    color: #c90a0ad7;
+    color: #c90a0a6c;
 }
 .active{
-    background-color: #c90a0ad7;
+    background-color: #c90a0a6c;
     padding: 8px 10px;
     border-radius: 3px;
     color: white!important;

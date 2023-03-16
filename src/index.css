@@ -6,35 +6,35 @@
 
 body {
   margin: 0;
-  font-family: 'Lato', sans-serif;
-  color:black
+  font-family:'Times New Roman', Times, serif;
+  color:darkslategray
 }
 h1, h2, h3, h4, h5, h5{
-  font-family: 'Poppins', sans-serif;
+  font-family:'Times New Roman', Times, serif
 }
 .primary{
   background: transparent;
   color: #FFFFFf;
-  border-color: #c90a0ad7;
-  background-color: #c90a0ad7;
+  border-color: #9b07079f;
+  background-color: #9b07079f;
   border-radius: 3px;
   padding: 10px 30px;
 }
 .primary:hover{
   background: #ffffff;
   color: black;
-  border-color: #c90a0ad7;
+  border-color: #9b07079f;
 
 }
 .secondary{
   background: transparent;
-  color: #c90a0ad7;
-  border-color: #c90a0ad7;
+  color: #9b07079f;
+  border-color: #9b07079f;
   border-radius: 3px;
   padding: 10px 30px;
 }
 .secondary:hover{
   background: black;
   color: white;
-  border-color: #c90a0ad7;
+  border-color: #9b07079f;
 }
