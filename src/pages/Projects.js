@@ -1,9 +1,10 @@
 import React from 'react'
-import Project1 from "../Images/Projects/Rpersonify.jpg"
-import Project2 from "../Images/Projects/Dynamics Agiluty.jpg"
-import Project3 from "../Images/Projects/counselorjyoti.jpg"
-import Project4 from "../Images/Projects/Car Galaxy.jpg"
-import Project5 from "../Images/Projects/Evo Design.jpg"
+import Project1 from "../Images/Projects/password_generator.PNG"
+import Project2 from "../Images/Projects/console.PNG"
+import Project3 from "../Images/Projects/codequiz.PNG"
+import Project4 from "../Images/Projects/dailyplanner.PNG"
+import Project5 from "../Images/Projects/makeameal.png"
+import Project5 from "../Images/Projects/weatherforecast.PNG"
 import { Container, Row, Col } from "react-bootstrap";
 import "./CSS/Projects.css"
 import Footer from '../Components/Footer';
@@ -14,47 +15,47 @@ export default function Projects() {
     <div>
       {/* Portfolio Section */}
       <section className="PortfolioSection">
-      <Container>
+        <Container>
           <h2>Recent Projects</h2>
           <p>I love coding, it lets me do amazing things like these!</p>
-        <Row className="ProjectsList">
-        <Col sm="4" className="Project">                 
-          <img src={Project1} alt="rpersonify" /> 
-          <h4 class="project-title">Password Generator</h4>
-          <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Password-Generator/" target="_blank" class="project-link">Check-out GitHub Link</a>
-        </Col>
-        <Col sm="4" className="Project">                 
-          <img src={Project2} alt="Dynamics Agilty" />
-          <h4 class="project-title">Console and Finances</h4>
-          <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Console-Finances/" target="_blank" class="project-link">Check-out GitHub Link</a>
-        </Col> 
-        <Col sm="4" className="Project">                
-          <img src={Project5} alt="Evo Design Studio" />
-          <h4 class="project-title">Code Quiz</h4>
-          <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-CodeQuiz" target="_blank" class="project-link">Check-out GitHub Link</a> 
-        </Col>       
-        </Row>
-        <Row className='pt-4'>
-        <Col sm="4" className="Project">    
-          <img src={Project3} alt="counselor jyoti" />
-          <h4 class="project-title">Daily Planner</h4>
-          <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Daily-Planner-App" target="_blank" class="project-link">Check-out GitHub Link</a>
-      </Col>
-      <Col sm="4" className="Project">                
-          <img src={Project4} alt="Car Galaxy" />
-          <h4 class="project-title">Make your meal App</h4>
-          <a href="https://akinbusuyi.github.io/Make-your-meal/" target="_blank" class="project-link">Check-out GitHub Link</a>
-      </Col>
-      <Col sm="4" className="Project">                
-          <img src={Project5} alt="Evo Design Studio" />
-          <h4 class="project-title">ReadMe Generator</h4>
-          <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-README-generator" target="_blank" class="project-link">Check-out GitHub Link</a>  
-      </Col>
-        </Row>
-      </Container>
-    </section>
+          <Row className="ProjectsList">
+            <Col sm="4" className="Project">
+              <img src={Project1} alt="password_generator" />
+              <h4 class="project-title">Password Generator</h4>
+              <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Password-Generator/" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+            <Col sm="4" className="Project">
+              <img src={Project2} alt="console" />
+              <h4 class="project-title">Console and Finances</h4>
+              <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Console-Finances/" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+            <Col sm="4" className="Project">
+              <img src={Project3} alt="codequiz" />
+              <h4 class="project-title">Code Quiz</h4>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-CodeQuiz" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+          </Row>
+          <Row className='pt-4'>
+            <Col sm="4" className="Project">
+              <img src={Project4} alt="dailyplanner" />
+              <h4 class="project-title">Daily Planner</h4>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Daily-Planner-App" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+            <Col sm="4" className="Project">
+              <img src={Project5} alt="makeameal" />
+              <h4 class="project-title">Make your meal App</h4>
+              <a href="https://akinbusuyi.github.io/Make-your-meal/" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+            <Col sm="4" className="Project">
+              <img src={Project6} alt="weatherforecast" />
+              <h4 class="project-title">Weather Forecast</h4>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-5day-Weather-Report" target="_blank" class="project-link">Link to GitHub</a>
+            </Col>
+          </Row>
+        </Container>
+      </section>
 
-    <Footer />
+      <Footer />
     </div>
   )
 }

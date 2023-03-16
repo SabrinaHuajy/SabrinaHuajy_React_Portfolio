@@ -24,7 +24,7 @@ export default function Experience() {
               <div className="content">
                 <h6>Jan 2018 - July 2018 (7 Months)</h6>
                 <h5>Analyst in Equity Financing with Merge & Acquisition </h5>
-                <h6 className='company'>CHAITONG Securities Co., Ltd. Shanghai, China</h6>
+                <h6 className='company'>HAITONG Securities Co., Ltd. Shanghai, China</h6>
                 <p>Participated in one international Significant Asset Reorganisation projects. Made collation of IPO and backdoor listing situations in pharmaceutical industries. Managed M&A project resource statistics database.</p>
               </div>
             </div>
