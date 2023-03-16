@@ -36,7 +36,7 @@ export default function NavBar() {
 
 
         <Switch>
-          <Route path="/" exact component={Home}/>
+          <Route path="/" component={Home}/>
           <Route path="/About" component={About}/>
           <Route path="/Experience" component={Experience}/>
           <Route path="/Contact" component={Contact}/>

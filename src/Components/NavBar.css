@@ -10,14 +10,14 @@
     text-decoration: none;
     margin: 0px 0px 0px 10px;
     line-height: 1.8;
-    color: black;
+    color: darkslategray;
 
 }
 .Nav-List .nav-link a:hover{
-    color: #084AF3;
+    color: #c90a0ad7;
 }
 .active{
-    background-color: #084AF3;
+    background-color: #c90a0ad7;
     padding: 8px 10px;
     border-radius: 3px;
     color: white!important;

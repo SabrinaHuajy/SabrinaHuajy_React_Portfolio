@@ -21,7 +21,9 @@ const About = () => {
           <Col sm={6} className="AboutContent">
             <h4>About Me</h4>
             <h2>Chinese girl who enjoys life science and coding</h2>
-            <p>I am a Biology student from the University of York whose life depends on the prosperity of rapeseeds. Coming from a bioinformatics background I've realised how much powerful advancements and revolution tech has brought into life science research and the life of human-being in general. I found my creativity was largely inspired by the coding process and it really allowed me to exhibit many skills I adopted from my studies. I have previously had some experiences with analytical libraries such as Pandas, NumPy, Matplotlib for processing biological data. Scientific data processes for life sciences that requires a lot of normalization.Machine learning, predictive modelling and algorithms for plant genomics that assist with molecular marker assistant breeding of polyploid plants/crops and metabolites analysis.
+            <p>I am a Biology student from the University of York whose life depends on the prosperity of rapeseeds. Coming from a bioinformatics background I've realised how much powerful advancements and revolution tech has brought into life science research and the life of human-being in general. I found my creativity was largely inspired by the coding process and it really allowed me to exhibit many skills I adopted from my studies. 
+            \n
+            I have previously had some experiences with analytical libraries such as Pandas, NumPy, Matplotlib for processing biological data. Scientific data processes for life sciences that requires a lot of normalization.Machine learning, predictive modelling and algorithms for plant genomics that assist with molecular marker assistant breeding of polyploid plants/crops and metabolites analysis.
 
               I have earned a certificate in Front-end Development from the edX skill Bootcamp, where I developed skills in JavaScript, CSS, React.js, and responsive web design.
 
