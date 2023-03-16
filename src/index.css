@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Poppins:wght@300;400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 body {
   margin: 0;
   font-family: 'Lato', sans-serif;
@@ -10,26 +15,26 @@ h1, h2, h3, h4, h5, h5{
 .primary{
   background: transparent;
   color: #FFFFFf;
-  border-color: #084AF3;
-  background-color: #084AF3;
+  border-color: #c90a0ad7;
+  background-color: #c90a0ad7;
   border-radius: 3px;
   padding: 10px 30px;
 }
 .primary:hover{
   background: #ffffff;
-  color: #084AF3;
-  border-color: #084AF3;
+  color: black;
+  border-color: #c90a0ad7;
 
 }
 .secondary{
   background: transparent;
-  color: #084AF3;
-  border-color: #084AF3;
+  color: #c90a0ad7;
+  border-color: #c90a0ad7;
   border-radius: 3px;
   padding: 10px 30px;
 }
 .secondary:hover{
-  background: #084AF3;
+  background: black;
   color: white;
-  border-color: #084AF3;
+  border-color: #c90a0ad7;
 }
