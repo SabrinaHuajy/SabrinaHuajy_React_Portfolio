@@ -22,12 +22,12 @@ export default function Projects() {
             <Col sm="4" className="Project">
               <img src={Project1} alt="password_generator" />
               <h4 class="project-title">Password Generator</h4>
-              <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Password-Generator/" target="_blank" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Password-Generator" target="_blank" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project2} alt="console" />
               <h4 class="project-title">Console and Finances</h4>
-              <a href="https://sabrinahuajy.github.io/SabrinaHuajy-Console-Finances/" target="_blank" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Console-Finances" target="_blank" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project3} alt="codequiz" />
@@ -44,7 +44,7 @@ export default function Projects() {
             <Col sm="4" className="Project">
               <img src={Project5} alt="makeameal" />
               <h4 class="project-title">Make your meal App</h4>
-              <a href="https://akinbusuyi.github.io/Make-your-meal/" target="_blank" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/akinbusuyi/Make-your-meal/" target="_blank" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project6} alt="weatherforecast" />
