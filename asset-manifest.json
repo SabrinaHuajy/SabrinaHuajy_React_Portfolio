@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SabrinaHuajy_React_Portfolio/static/css/main.ec433d05.css",
-    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.b6866d5f.js",
+    "main.js": "/SabrinaHuajy_React_Portfolio/static/js/main.f1b57b53.js",
     "static/media/hey.png": "/SabrinaHuajy_React_Portfolio/static/media/hey.b664593e1ab106571274.png",
     "static/media/makeameal.png": "/SabrinaHuajy_React_Portfolio/static/media/makeameal.2506cde9edc7cdb465af.png",
     "static/media/119356-development.gif": "/SabrinaHuajy_React_Portfolio/static/media/119356-development.25909523dcd7a73802de.gif",
@@ -15,10 +15,10 @@
     "static/media/codequiz.PNG": "/SabrinaHuajy_React_Portfolio/static/media/codequiz.1c3817f8c982d9e49392.PNG",
     "index.html": "/SabrinaHuajy_React_Portfolio/index.html",
     "main.ec433d05.css.map": "/SabrinaHuajy_React_Portfolio/static/css/main.ec433d05.css.map",
-    "main.b6866d5f.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.b6866d5f.js.map"
+    "main.f1b57b53.js.map": "/SabrinaHuajy_React_Portfolio/static/js/main.f1b57b53.js.map"
   },
   "entrypoints": [
     "static/css/main.ec433d05.css",
-    "static/js/main.b6866d5f.js"
+    "static/js/main.f1b57b53.js"
   ]
 }
