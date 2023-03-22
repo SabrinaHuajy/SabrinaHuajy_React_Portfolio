@@ -22,34 +22,34 @@ export default function Projects() {
             <Col sm="4" className="Project">
               <img src={Project1} alt="password_generator" />
               <h4 class="project-title">Password Generator</h4>
-              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Password-Generator" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Password-Generator" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project2} alt="console" />
               <h4 class="project-title">Console and Finances</h4>
-              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Console-Finances" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Console-Finances" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project3} alt="codequiz" />
               <h4 class="project-title">Code Quiz</h4>
-              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-CodeQuiz" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-CodeQuiz" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
           </Row>
           <Row className='pt-4'>
             <Col sm="4" className="Project">
               <img src={Project4} alt="dailyplanner" />
               <h4 class="project-title">Daily Planner</h4>
-              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Daily-Planner-App" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-Daily-Planner-App" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project5} alt="makeameal" />
               <h4 class="project-title">Make your meal App</h4>
-              <a href="https://github.com/akinbusuyi/Make-your-meal/" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/akinbusuyi/Make-your-meal/" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
             <Col sm="4" className="Project">
               <img src={Project6} alt="weatherforecast" />
               <h4 class="project-title">Weather Forecast</h4>
-              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-5day-Weather-Report" rel="noreferrer" class="project-link">Link to GitHub</a>
+              <a href="https://github.com/SabrinaHuajy/SabrinaHuajy-5day-Weather-Report" target="_blank" rel="noreferrer" class="project-link">Link to GitHub</a>
             </Col>
           </Row>
         </Container>
