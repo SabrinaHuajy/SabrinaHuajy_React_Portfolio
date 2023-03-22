@@ -26,7 +26,7 @@ MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](ht
         <https://github.com/SabrinaHuajy>
 
 ## Deployed website
-Link to my portfolio Website - https://sabrinahuajy.github.io/SabrinaHuajy_React_Portfolio/
+Link to my portfolio Website - https://sabrinahua.netlify.app/
 
 ## Illustration
 The following images illustrate the website's appearance and functionality:
