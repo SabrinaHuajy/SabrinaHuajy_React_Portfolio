@@ -37,7 +37,7 @@ const About = () => {
             </p>
 
 
-            <h5><span>Let's be friends:</span> <br /> <a href="mailto:j.hua@york.ac.uk" target="_blank" rel="noreferrer">j.hua@york.ac.uk</a></h5>
+            <h5><span>Let's be friends:</span> <br /> <a href="mailto:j.hua@york.ac.uk" rel="noreferrer">j.hua@york.ac.uk</a></h5>
           </Col>
         </Row>
       </Container>
